@@ -3,6 +3,7 @@
 
 ## Main palette
 ![Main Palette](./assets/Autumnull.png)
+<p align="center"><i>The last values are CIELAB, NOT RGB</i></p>
 
 ## Description
 Autumnull is yet another dark palette and colorscheme, to be used with Neovim.  
