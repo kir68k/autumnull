@@ -1,0 +1,1 @@
+require("autumnull").setup({})
