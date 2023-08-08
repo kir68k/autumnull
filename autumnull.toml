@@ -134,7 +134,7 @@
   PreCondit = 'orange'
   Special = 'orange'
   SpecialChar = 'white'
-  Tag = 'blue'
+  Tag = 'yellow'
   Debug = 'red'
   Delimiter = 'gray -'
   SpecialComment = 'gray'
@@ -147,3 +147,17 @@
   TabLine = 'light_gray line'
   TabLineSel = 'white line'
   TabLineFill = 'line line'
+
+[IndentBlankline]
+  IndentBlanklineChar = 'gray'
+  IndentBlanklineContextChar = 'context'
+  IndentBlanklineContextStart = '- - u'
+  IndentBlanklineSpaceChar = '-'
+  IndentBlanklineSpaceCharBlankline = '-'
+
+[Statusline]
+  StatusLine = 'line gray'
+  StatusLineNC = 'line gray'
+  StatusLineSeparator = 'line'
+  StatusLineTerm = 'line'
+  StatusLineTermNC = 'line'

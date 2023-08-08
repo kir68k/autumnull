@@ -84,7 +84,7 @@ theme.set_highlights = function()
   hl(0, "PreCondit", { fg = c.orange, bg = 'NONE', })
   hl(0, "Special", { fg = c.orange, bg = 'NONE', })
   hl(0, "SpecialChar", { fg = c.white, bg = 'NONE', })
-  hl(0, "Tag", { fg = c.blue, bg = 'NONE', })
+  hl(0, "Tag", { fg = c.yellow, bg = 'NONE', })
   hl(0, "Debug", { fg = c.red, bg = 'NONE', })
   hl(0, "Delimiter", { fg = c.gray, bg = 'NONE', })
   hl(0, "SpecialComment", { fg = c.gray, bg = 'NONE', })
@@ -97,6 +97,20 @@ theme.set_highlights = function()
   hl(0, "TabLine", { fg = c.light_gray, bg = c.line, })
   hl(0, "TabLineSel", { fg = c.white, bg = c.line, })
   hl(0, "TabLineFill", { fg = c.line, bg = c.line, })
+
+  -- IndentBlankline
+  hl(0, "IndentBlanklineChar", { fg = c.gray, bg = 'NONE', })
+  hl(0, "IndentBlanklineContextChar", { fg = c.context, bg = 'NONE', })
+  hl(0, "IndentBlanklineContextStart", { fg = 'NONE', bg = 'NONE', underline=true, })
+  hl(0, "IndentBlanklineSpaceChar", { fg = 'NONE', bg = 'NONE', })
+  hl(0, "IndentBlanklineSpaceCharBlankline", { fg = 'NONE', bg = 'NONE', })
+
+  -- Statusline
+  hl(0, "StatusLine", { fg = c.line, bg = c.gray, })
+  hl(0, "StatusLineNC", { fg = c.line, bg = c.gray, })
+  hl(0, "StatusLineSeparator", { fg = c.line, bg = 'NONE', })
+  hl(0, "StatusLineTerm", { fg = c.line, bg = 'NONE', })
+  hl(0, "StatusLineTermNC", { fg = c.line, bg = 'NONE', })
 
 end
 
