@@ -2,7 +2,7 @@
 ~ A dark flat theme for Neovim ~
 
 ## Main palette
-![Main Palette](./assets/Autumnull.png)
+![Main Palette](./assets/palette.png)
 <p align="center"><i>The last values are CIELAB, NOT RGB</i></p>
 
 ## Description
