@@ -33,15 +33,15 @@
  orange = '#FFA25E'
  dark_orange = '#FF6700'
  yellow = '#FFCE58'
- #purple = '#8F78FF'
  purple = '#7B7EFF'
+ alt_purple = '#8F78FF'
  magenta = '#FFA0FF'
 
  cursor_fg = '#4E4552'
  cursor_bg = '#C5B0CF'
 
- sign_add = '#D3ED80'
- sign_change = '#9AD1FF'
+ sign_add = '#9BF97E'
+ sign_change = '#FFA25E'
  sign_delete = '#FF4550'
 
  error_red = '#FF4550'
