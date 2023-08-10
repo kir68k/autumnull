@@ -36,13 +36,12 @@ local colors = {
   warning_orange = "#ffa25e",
   hint_yellow = "#ffd73f",
   success_green = "#d3ed80",
-  ui_blue = "#9ad1ff",
-  ui2_blue = "#3800f3",
-  ui3_blue = "#399bff",
-  ui4_blue = "#c0edff",
   ui_orange = "#ffa25e",
-  ui_purple = "#d056ff",
-  search_blue = "#3800f3",
+  ui_purple = "#7b7eff",
+  ui2_purple = "#8f78ff",
+  ui3_purple = "#af68ff",
+  ui4_purple = "#d056ff",
+  search_purple = "#af68ff",
   search_orange = "#ffa25e",
 }
 

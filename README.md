@@ -1,5 +1,5 @@
-# >> KRXT :: Autumnull
-~ A dark flat theme for Neovim ~
+<h1 align="center">Stylism :: <i>Autumnull</i></h1>
+<p align="center"><i>~ A dark flat theme for Neovim ~</i></p>
 
 ## Main palette
 ![Main Palette](./assets/palette.png)
@@ -13,9 +13,16 @@ A TOML file is provided with color definitions, for use with colorgen-nvim.
 
 ## Plugin support?
 The theme currently supports these plugins:
-- [indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim)
+- [indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim/)
+- [nvim-cmp](https://github.com/hrsh7th/nvim-cmp/)
+- [lualine](https://github.com/nvim-lualine/lualine.nvim/)
 
-<i>I will add more going forward</i>
+<i>More will be added going forward</i>
+
+## Inspiration & Name
+This theme was largely inspired by the [Monokai Pro](https://monokai.pro/vscode/) theme, my current wallpaper and love for the Autumn season, hence the "autumn" in the name.  
+"-null" is a reference to `/dev/null`, or a null pointer, which I thought fit well.  
+Writing the name capitalized is alright, I simply prefer plugin names to be all lowercase, or camelCase.
 
 ## Preview
 ![Preview](./assets/preview.png)
