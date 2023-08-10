@@ -82,7 +82,7 @@
   CursorColumn = '- dark'
   ColorColumn = '- dark'
   NormalFloat = '- dark'
-  Visual = '- light_gray'
+  Visual = 'alt_purple dark'
   VisualNOS = '- alt_bg'
   WarningMsg = 'error_red bg'
   DiffAdd = 'alt_bg sign_add'
