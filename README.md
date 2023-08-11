@@ -2,7 +2,7 @@
 <p align="center"><i>~ A dark flat theme for Neovim ~</i></p>
 
 ## Main palette
-![Main Palette](./assets/palette.png)
+![Main Palette preview](./assets/palette.png)
 <p align="center"><i>The last values are CIELAB, NOT RGB</i></p>
 
 ## Description
@@ -16,6 +16,8 @@ The theme currently supports these plugins:
 - [indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim/)
 - [nvim-cmp](https://github.com/hrsh7th/nvim-cmp/)
 - [lualine](https://github.com/nvim-lualine/lualine.nvim/)
+- [Treesitter](https://github.com/nvim-treesitter/nvim-treesitter/)
+- [Telescope](https://github.com/nvim-telescope/telescope.nvim/)
 
 <i>More will be added going forward</i>
 
@@ -24,5 +26,6 @@ This theme was largely inspired by the [Monokai Pro](https://monokai.pro/vscode/
 "-null" is a reference to `/dev/null`, or a null pointer, which I thought fit well.  
 Writing the name capitalized is alright, I simply prefer plugin names to be all lowercase, or camelCase.
 
-## Preview
-![Preview](./assets/preview.png)
+## Previews
+![Main preview](./assets/main_preview.png)
+![Telescope preview](./assets/telescope_preview.png)
