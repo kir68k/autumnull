@@ -26,6 +26,15 @@ This theme was largely inspired by the [Monokai Pro](https://monokai.pro/vscode/
 "-null" is a reference to `/dev/null`, or a null pointer, which I thought fit well.  
 Writing the name capitalized is alright, I simply prefer plugin names to be all lowercase, or camelCase.
 
+## Other programs
+Since a commit on August 17th, this repository has become partly a meta repository. What this means is that while the core Neovim theme is still in the root directory (for simple use with plugin managers), palettes for other programs are present too.
+The "others" directory inside this repository contains subdirectories for different programs, to which the theme has been ported.
+Currently, it contains directories for:
+- [Inkscape](https://inkscape.org/)<sup>1</sup>
+- [GIMP](https://gimp.org/)<sup>1</sup>
+
+1 — GIMP and Inkscape use the same format for palettes. A directory for both is created to minimize confusion, nonetheless.
+
 ## Previews
 ![Main preview](./assets/main_preview.png)
 ![Telescope preview](./assets/telescope_preview.png)
