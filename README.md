@@ -32,6 +32,7 @@ The "others" directory inside this repository contains subdirectories for differ
 Currently, it contains directories for:
 - [Inkscape](https://inkscape.org/)<sup>1</sup>
 - [GIMP](https://gimp.org/)<sup>1</sup>
+- [Gradience](https://github.com/GradienceTeam/Gradience/)
 
 1 — GIMP and Inkscape use the same format for palettes. A directory for both is created to minimize confusion, nonetheless.
 

@@ -1,0 +1,110 @@
+{
+    "name": "Autumnull",
+    "variables": {
+        "accent_color": "#7B7EFF",
+        "accent_bg_color": "#7B7EFF",
+        "accent_fg_color": "#FFFEF7",
+        "destructive_color": "#FF4783",
+        "destructive_bg_color": "#FF709D",
+        "destructive_fg_color": "#FFFEF7",
+        "success_color": "#9BF97E",
+        "success_bg_color": "#DBFF9A",
+        "success_fg_color": "#FFFEF7",
+        "warning_color": "#FFA25E",
+        "warning_bg_color": "#FFA25E",
+        "warning_fg_color": "rgba(0, 0, 0, 0.8)",
+        "error_color": "#FF4550",
+        "error_bg_color": "#FF2839",
+        "error_fg_color": "#FFFEF7",
+        "window_bg_color": "#2A242D",
+        "window_fg_color": "#FFFEF7",
+        "view_bg_color": "#1F1922",
+        "view_fg_color": "#FFFEF7",
+        "headerbar_bg_color": "#3F3842",
+        "headerbar_fg_color": "#FFFEF7",
+        "headerbar_border_color": "#FFFEF7",
+        "headerbar_backdrop_color": "#1F1922",
+        "headerbar_shade_color": "rgba(0, 0, 0, 0.36)",
+        "card_bg_color": "rgba(255, 255, 255, 0.08)",
+        "card_fg_color": "#FFFEF7",
+        "card_shade_color": "rgba(0, 0, 0, 0.36)",
+        "dialog_bg_color": "#3F3842",
+        "dialog_fg_color": "#FFFEF7",
+        "popover_bg_color": "#3F3842",
+        "popover_fg_color": "#FFFEF7",
+        "shade_color": "rgba(0, 0, 0, 0.36)",
+        "scrollbar_outline_color": "rgba(0, 0, 0, 0.5)",
+        "sidebar_bg_color": "#2A242D",
+        "sidebar_fg_color": "#FFFEF7"
+    },
+    "palette": {
+        "blue_": {
+            "1": "rgb(153,193,241)",
+            "2": "rgb(98,160,234)",
+            "3": "rgb(154,209,255)",
+            "4": "rgb(28,113,216)",
+            "5": "rgb(26,95,180)"
+        },
+        "green_": {
+            "1": "rgb(143,240,164)",
+            "2": "rgb(87,227,137)",
+            "3": "rgb(155,249,126)",
+            "4": "rgb(46,194,126)",
+            "5": "rgb(38,162,105)"
+        },
+        "yellow_": {
+            "1": "rgb(249,240,107)",
+            "2": "rgb(248,228,92)",
+            "3": "rgb(255,206,88)",
+            "4": "rgb(245,194,17)",
+            "5": "rgb(229,165,10)"
+        },
+        "orange_": {
+            "1": "rgb(255,190,111)",
+            "2": "rgb(255,163,72)",
+            "3": "rgb(255,162,94)",
+            "4": "rgb(230,97,0)",
+            "5": "rgb(198,70,0)"
+        },
+        "red_": {
+            "1": "rgb(246,97,81)",
+            "2": "rgb(237,51,59)",
+            "3": "rgb(255,71,131)",
+            "4": "rgb(192,28,40)",
+            "5": "rgb(165,29,45)"
+        },
+        "purple_": {
+            "1": "rgb(220,138,221)",
+            "2": "rgb(192,97,203)",
+            "3": "rgb(123,126,255)",
+            "4": "rgb(129,61,156)",
+            "5": "rgb(97,53,131)"
+        },
+        "brown_": {
+            "1": "rgb(205,171,143)",
+            "2": "rgb(181,131,90)",
+            "3": "rgb(110,89,95)",
+            "4": "rgb(134,94,60)",
+            "5": "rgb(99,69,44)"
+        },
+        "light_": {
+            "1": "rgb(255,255,255)",
+            "2": "rgb(246,245,244)",
+            "3": "rgb(255,250,245)",
+            "4": "rgb(192,191,188)",
+            "5": "rgb(154,153,150)"
+        },
+        "dark_": {
+            "1": "rgb(119,118,123)",
+            "2": "rgb(94,92,100)",
+            "3": "rgb(63,56,66)",
+            "4": "rgb(36,31,49)",
+            "5": "rgb(0,0,0)"
+        }
+    },
+    "custom_css": {
+        "gtk4": "",
+        "gtk3": ""
+    },
+    "plugins": {}
+}
