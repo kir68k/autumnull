@@ -11,6 +11,9 @@ The theme has been created using L\*a\*b\* values, with help of [Adobe Color](ht
 Generating a theme for Neovim in Lua has been done using [colorgen-nvim](https://github.com/LunarVim/colorgen-nvim), which I can heavily recommend.  
 A TOML file is provided with color definitions, for use with colorgen-nvim.
 
+## Info about indent-blankline
+For now, you'll have to do something like [I do here](https://github.com/kir68k/nvim/blob/c4909042346453a404eb43e1c70fd2b387994092/lua/plugins/visual.lua#L20), to get rainbow indents. Version 3 broke the current config, and I'll need time to fix it.
+
 ## Plugin support?
 The theme currently supports these plugins:
 - [indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim/)
